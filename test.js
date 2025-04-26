@@ -15,4 +15,15 @@ console.log("hello from raxax")
 
 // some more works i have to write
 
-console.log("main branch me commit kiya")
+
+console.log("another feature i want to add here!")
+
+function addNum(num1, num2) {
+    return num1 + num2;
+}
+
+const result = addNum(2,5)
+
+console.log(result);
+
+// good job!
