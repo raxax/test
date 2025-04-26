@@ -17,3 +17,11 @@ console.log("hello from raxax")
 
 
 console.log("another feature i want to add here!")
+
+function addNum(num1, num2) {
+    return num1 + num2;
+}
+
+const result = addNum(2,5)
+
+console.log(result);
