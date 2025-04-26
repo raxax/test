@@ -1,1 +1,1 @@
-## testig the git and github.
+## testing the git and github.
