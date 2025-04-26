@@ -25,3 +25,5 @@ function addNum(num1, num2) {
 const result = addNum(2,5)
 
 console.log(result);
+
+// good job!
